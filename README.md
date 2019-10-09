@@ -6,7 +6,7 @@ This is my first git repo
 
 **Screenshoot:**
 
-**Development plattform:** macOS Mojave, Unity 2019.1.14f1
+**Development plattform:** Windows10, Unity 2019.1.14f1, Visual Studio Community
 
 **Targt plattform:** WebGL (refres: 1280x720 smallHD)
 
